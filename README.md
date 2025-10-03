@@ -6,8 +6,8 @@ Perform exploratory data analysis (EDA) on the Titanic dataset to uncover patter
 ---
 
 ##  Deliverables  
-###  Jupyter Notebook (`.ipynb`)  
-###  Summary Report  
+### Jupyter Notebook (`.ipynb`)  
+### Summary Report  
 
 ---
 
